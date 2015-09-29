@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[妞妞日誌]]></title>
+  <title><![CDATA[白妞妞日誌]]></title>
   <subtitle><![CDATA[日誌本]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://iceskyrain.github.io/"/>
   <updated>2015-09-29T15:16:54.906Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://iceskyrain.github.io/</id>
   
   <author>
     <name><![CDATA[Edward]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[淡定妞]]></title>
-    <link href="http://yoursite.com/2015/09/29/%E6%B7%A1%E5%AE%9A%E5%A6%9E/"/>
-    <id>http://yoursite.com/2015/09/29/淡定妞/</id>
+    <link href="http://iceskyrain.github.io/2015/09/29/%E6%B7%A1%E5%AE%9A%E5%A6%9E/"/>
+    <id>http://iceskyrain.github.io/2015/09/29/淡定妞/</id>
     <published>2015-09-29T15:11:48.000Z</published>
     <updated>2015-09-29T15:16:54.906Z</updated>
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/KyIjsnC.jpg" alt="屁股感覺怪怪的"></p>
@@ -33,8 +33,8 @@
   
   <entry>
     <title><![CDATA[維修機車]]></title>
-    <link href="http://yoursite.com/2015/09/29/%E7%B6%AD%E4%BF%AE%E6%A9%9F%E8%BB%8A/"/>
-    <id>http://yoursite.com/2015/09/29/維修機車/</id>
+    <link href="http://iceskyrain.github.io/2015/09/29/%E7%B6%AD%E4%BF%AE%E6%A9%9F%E8%BB%8A/"/>
+    <id>http://iceskyrain.github.io/2015/09/29/維修機車/</id>
     <published>2015-09-29T07:22:56.000Z</published>
     <updated>2015-09-29T15:02:34.947Z</updated>
     <content type="html"><![CDATA[<p><img src="https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11149542_747165192061945_3916481642370454168_n.jpg?oh=eefba5762d857b75a9551e66f82732d6&amp;oe=56A5B8E7" alt="妞妞看如何維修機車"><br><strong>白妞妞：</strong><br> 腦板，可要把我的寶馬弄好耶 假日跑跳吃零食巴費全靠它了<br><a id="more"></a></p>
