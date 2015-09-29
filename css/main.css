@@ -750,7 +750,6 @@ body {
   margin: 0 auto;
   padding: 100px 0 70px;
   width: 960px;
-  background-image: url("http://i.imgur.com/7tUiGQP.jpg");
 }
 .one-column .header-inner {
   width: 700px;
@@ -788,6 +787,7 @@ body {
 }
 .header {
   background: #fff;
+  background-image: url("http://i.imgur.com/7tUiGQP.jpg");
 }
 .header-inner {
   position: relative;
@@ -1056,7 +1056,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2eb61c;
+  background: #699d6e;
 }
 .sidebar-nav {
   margin: 0;
